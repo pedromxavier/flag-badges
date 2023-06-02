@@ -1,0 +1,24 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="86.00" height="20.00" role="img" aria-label="made in BR">
+    <title>made in TN</title>
+    <linearGradient id="s" x2="0" y2="100%">
+        <stop offset="0" stop-color="#bbb" stop-opacity=".1" />
+        <stop offset="1" stop-opacity=".1" />
+    </linearGradient>
+    <clipPath id="r">
+        <rect width="86.00" height="20.00" rx="3" fill="#fff" />
+    </clipPath>
+    <g clip-path="url(#r)">
+        <image
+            href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAAoCAYAAACiu5n/AAAE7klEQVR4nO2ZW2wUVRjHf2dmt3uZ3aXbLQWskIZiBavwQACpMTEEonILFSKIBk3UeCGEggkgPgghRIsJ+CI8mIBAuIakDVUxJqhRiQEMVcFCDUgtqb3Qbre73Ut3Z+b4sGVhCfI0u2LpP5mXM9985/uf853zXUa0E5DcR1D+awPyjWHCQx3DhIc6hgkPddjyP6U5+EB6vfO75nkibCCJAwKheBGaGwAZiyGNCGAicANqzi3JMWGJpB/FHcC5oBrHgmewP1aJEigCwAz2krpwkYGGrxg4fgIzeh2BBxA5s0jkLrVM76pr8fN4Nm/EVjnxrtL6pT/o31xL/PBBBE5ytds5ImwgSeGr3Yq2bvXN0bZ2UqfPYrRcA9NEHfsA9hnTUMvGZWSiO3YRfmc9QqrkgnQOXFoiieP78CO0dasAMLu66d9SS/zgMYxgG5IUAoEi/CgPluCYMxtt3WpsD09AW/MWCIXwmprBc22te1u+w5IIrkVLKazbB4De1Ezvc8tJNf+CwI4o8OF+dQXOF5aglo0FXUe/0IR+6QqOubMzrh9a9jrxI/sQeK00z2rCBsLtJND4I7aKcszrPfRUPY1++TxQgFpaSuGhzyh48vE7fm22d6KUFIOqYrS00j35CWQkgpWOaGkQlMRwzJuHraIcgP7N20hdbkSgIZwu/Ef3Z8jGDxwj+c0P2caMGQVq+tyqZeNwLlo4GM6sg8VRX+CsnguA0d5JfP8RBF4kUdyvvIy9alpGUvaG6HttJbI/iowPkKj/glTjb1naHNVzsfrisvDSMhE2H7bJjwCQOnUGM9yBQAPhxPXikixp4XCQunqe4KxFmMEOhHsERSfrs42rnIgoKIRkHKuIW0vY5UbxFwJgtPxFOoU0EFohankZMhojcfwEA/UNJL89hYKf5NnvUbzFBH6uRxlZnKVRKfKjaC7MZMwyKy136QzkbeNCgJSQSiHjCdD1m+8UFWH7t7W3NixZSFhBxmOYoT6AdMhBAVRkNITxZwvCo+FasQz/8cN4P9iESS/2KTMQPhe9i1dg9gSzNMreEGY0hpWkrSWs96GfvwiAvWo6imcUEgMpY8QP1WVJS13HNnYSge8aGPn7OTwbatIZ2C3Qm5qRyRBWXlwWu7QkUf8lAGrpGFzLlyCJIPAQ272H1NnGjKTweRnx6SeIQh/Cq+FcWo196pQsbWldOlbC+sRDc1P86ynU8jLMji56Zs5Bb2kGbKjjyvAf3Yt9xtQ7fm12dqEUB9KJx7U2uh+tQob7uGcTD1Axo91E3t2SVj66BH/9AWzjK5AkMFovE5w1n8ja90idOYfZeR2zrZ2Br08S3b4Ts6snk3j0b9yKGW7H6nQ/B9WSRBLDt+NjtJo3ADD/7iDy/lYSR+swwh1IDAQKilqEMjqAY9ZTaOtrMnl0bNce+t5eicDFPV88pGEghYFv+za0mjdvjra0kvzpNMbV1sHysBT7zOnYKiZkZGI7dxNetXawC2R9MZfjBkAC1/KX8GzagO2h8rtLX2mhf0stsb17ERSQq2ZMDglDpsXjLcFZPR/HwmexVU5CCfgBgRnsRW+6xEDDCRJ1n2OGOv7PLZ5boQ9WPSpKwQhwuxGAjMUxkyHAGDyvue8p5onwDUjSh/PGlIJ0oMjdjt6OPPelBfloxd4N992fh2HCQx3DhIc6hgkPdfwDa2nVDjaNSA8AAAAASUVORK5CYII="
+            x="56.00" y="0"
+            width="30.00" height="20.00"
+        />
+        <rect width="56.00" height="20.00" fill="#555" />
+        <rect width="86.00" height="20.00" fill="url(#s)" />
+    </g>
+    <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
+        <text aria-hidden="true" x="285" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="450">made in</text>
+        <text x="285" y="140" transform="scale(.1)" fill="#fff" textLength="450">made in</text>
+    </g>
+</svg>

@@ -1,0 +1,24 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="86.00" height="20.00" role="img" aria-label="made in BR">
+    <title>made in DZ</title>
+    <linearGradient id="s" x2="0" y2="100%">
+        <stop offset="0" stop-color="#bbb" stop-opacity=".1" />
+        <stop offset="1" stop-opacity=".1" />
+    </linearGradient>
+    <clipPath id="r">
+        <rect width="86.00" height="20.00" rx="3" fill="#fff" />
+    </clipPath>
+    <g clip-path="url(#r)">
+        <image
+            href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAAoCAYAAACiu5n/AAADRklEQVR4nO2Yb2hNYRzHP+fenXPvzt1ss79mi4XJsPkTRRQlq72YMKTm7xvaK61Ik6JMkiQvvCEpyp8iKaLkBWUl/4bNn0gMGxOX7Z7d3XvOPd7o5jhnrvScjet+39ye3/Oc8/t+73me7/N7HommuSZDALP5+lCkxTMkWYcQKcHJjpTgZEdKcLIjJdht+HSTCd1RtPttxMLhwU6PNBiV1uigzpL2Pha86Keo17D0KSXFZNdWk7d2Bb6xZW5TcVewTzfZ1NLLsjYNT4IsktdL3vqVFO/cjMfvd4uSe4ILQjH2XQ4y6UPU1tdSqlC3oZHAzKn4y8cAEH72gtCte0Rev6WwcSNyQZ4btNwR7NNNjp7/zIRuq9h3mV5OT1Y5W5FOaO8Nx2djIY3gxatkL6rG4/OJpuaOaTXe7HEUe2hmBserVDRZGphQQGX48lrCj566QU284NIvBkvb+2zx05NVLpUnXpva3QcAqNMrMb58FU2PNNEvrG8N2QyqpVThbEV6wme7D5+g/+Ur1GmVAHjSxZuXcMFzX0VssZZSn+M07txzEEmWyVo4DzMa5e32PeTW18X7JUURTU+s4IyIadtnAVqLZMfxufV1PJlTS2fzgXhM//jJMsY0DCSvVxhHoWu4qMcuFuBljvP/qpQUU7K7yRILXrhCW+V8OpsPEH76HKSBDe5P8FfW0qZhfP+NCX+30Cndlek89co+6zwstE/raOd73jTttsSya6spO3Yw3jZ1Q+hnEfqFexWJrgy76Koue7UF8PHoSQoa1jH+2jnKr5xCUmTS8oZbxkhp4tYvuODSN0YpLGuz7sOzOvo5V5Fuc+oR2zZZ2iN3bKH/dUe8bUYiwp1a+Bo+URUg9pPPzOqIOBYjPyN/42pyFtfE27E+8cdH4YI7sryORcaKhxo1zxILCMyYCoB25wHerGGi6bnj0vtnZ/I432pSxT0GDbd6WdWqoUYHPq/EQhqfzlzAP2m8G9RSx0Oh8OkmjTd7WNre91sXALlrljNy19Z/8wLgR/zqikceUUjO4prkuOJxgho1GRXUud1wBP+4MjwBdTDTi9+HE0GTJR7ny6hTJg52auAvraXdREpwsiMlONmREpzs+O8EfwOk/hqpvIADLgAAAABJRU5ErkJggg=="
+            x="56.00" y="0"
+            width="30.00" height="20.00"
+        />
+        <rect width="56.00" height="20.00" fill="#555" />
+        <rect width="86.00" height="20.00" fill="url(#s)" />
+    </g>
+    <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
+        <text aria-hidden="true" x="285" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="450">made in</text>
+        <text x="285" y="140" transform="scale(.1)" fill="#fff" textLength="450">made in</text>
+    </g>
+</svg>

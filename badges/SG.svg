@@ -1,0 +1,24 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="86.00" height="20.00" role="img" aria-label="made in BR">
+    <title>made in SG</title>
+    <linearGradient id="s" x2="0" y2="100%">
+        <stop offset="0" stop-color="#bbb" stop-opacity=".1" />
+        <stop offset="1" stop-opacity=".1" />
+    </linearGradient>
+    <clipPath id="r">
+        <rect width="86.00" height="20.00" rx="3" fill="#fff" />
+    </clipPath>
+    <g clip-path="url(#r)">
+        <image
+            href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAAoCAYAAACiu5n/AAADhklEQVR4nO2YT2gcVRjAf2/+7WY3tRdtId1trJq0Cba0VKGFKBREFEXw4EUUFNnWQ5WKR5EeWlFpc/Ci0ksEJQVBL17Eiwf/tLEtpKapeJBSEtaE0lPZycy8N+95eJusspsapVkn4/5uj5kH32++73t/RtwcOWj4H+Gt+U0pMYkEre3Y9xCFAgixTqGtD38v3BR1d2zH278Xb9cQRkB6eRb540+YRgiO04VQ7wyrCwuBCUOcrVsov36Y4JknEP1l1JVfiCe/IP3tGkYq0AbQNtMbINudhQWYMMTbNUz/R6dw790OQHhynKWJSZAKUQjAc/H274FUo2augrFzs0xn4UThbLmb/o9P4w5WAWgcf4/ozKeIzZugUAApcaoVyu++Danm1pE30dfnwF/7svBf0DE6E8eUjtZWZJNvviWaOGtlAVINrouuL6CmLoEB/fsCuI5d1IyxfZ3BEm8XlgpnsErh2afsWGuiiUkbvOPgP7wPIxVqegYch8aJ8ZagMXj7doMBdXnG9nfGpNuETZIQ7B5F9JcB0PN11OyvCNfFqW6j9M5bECfcqr2BnpsH1wUEJAnOjsFWideONUvc77bTbWnPsNY41W2t4eINTCNEBD66voD87jxIiV5YBM9rZVB49vn3U5Cm6HrzecZYdZVexpjmQay57YQnTq+UN6lumxqeHLfzPQ9k9g5x7ScGx0HP11vDrfcgSn22T5UCrTFxbIWVbM1Tyu7dcWI/hFKZ3KLahEXgI2eu2hMU4FYG8EaGMFFspT0P78ERSq/VcHc+sJJtd2SYvqOv4I3utNk12csudMqw76OvzZF89bUduy7Fl5+HNLUSUUxw6BGKtRfxxw5gogizFOEfGqPvyEv4jx7ERFGXNdZO5x4u+IQfnMEfO4BTGSB48jGKLzxH9MlZKBaQ5y5gZIK6OI2tW4M6d4FQpajzF+2Hydh2tIzoeD0UYBpLeHtG2fThKZzKAGhN4/j7RJ99bns0TRGb7/rLNNMIEeVSt2L/V3QWBrsANULcygB9x14lePpxRLGAujRNNPkl6udZ9OINkDKz2ezE6sJgqzWWGKVwh+/Hf2gv7tB9YAxq+gryh6kNdz28vfCfSRL7A2B59fV9e2PaQNmFf/LHIwgQQbCOoXQHYUxGN8x1YuM03x2iJ5x3esJ5pyecd3rCeacnnHd6wnmnJ5x3esJ5pyecd/4AXWpg9pKytqMAAAAASUVORK5CYII="
+            x="56.00" y="0"
+            width="30.00" height="20.00"
+        />
+        <rect width="56.00" height="20.00" fill="#555" />
+        <rect width="86.00" height="20.00" fill="url(#s)" />
+    </g>
+    <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
+        <text aria-hidden="true" x="285" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="450">made in</text>
+        <text x="285" y="140" transform="scale(.1)" fill="#fff" textLength="450">made in</text>
+    </g>
+</svg>

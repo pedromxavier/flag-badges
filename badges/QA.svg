@@ -1,0 +1,24 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="86.00" height="20.00" role="img" aria-label="made in BR">
+    <title>made in QA</title>
+    <linearGradient id="s" x2="0" y2="100%">
+        <stop offset="0" stop-color="#bbb" stop-opacity=".1" />
+        <stop offset="1" stop-opacity=".1" />
+    </linearGradient>
+    <clipPath id="r">
+        <rect width="86.00" height="20.00" rx="3" fill="#fff" />
+    </clipPath>
+    <g clip-path="url(#r)">
+        <image
+            href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAAoCAYAAACiu5n/AAAEE0lEQVR4nN2ayW8bdRTHP2PPYjsNRRES4lBx75ETZ/48LqCKQw5wqBShFjUUKVC1ibOSzVvtLI6XeIuN7djjZbyv4+EQBXEARYUZT5TvP/DVd977vvf96Y1gGIaBCehrbQC0skp044DYpp/ieYJOvQWGgShLOCXRDKr/BcEswf+EZrFCLhQltnVMLhilni+hT6YIgmAV5Z2wVPAtGoVrQj+vs738kl5Dw+F0Wk35rzC9xwzDYNjuUo5nSOwGiW4cUI5nGXb7SIpkq1iwoMLXiSxvvv6e8C+bdBoNZMWNa3HhXvgXLBBsGAaTwZBSLEN8x09iN0A+HGPU7SMqMoLDPv/CPD28us728gt6zdbD8vDf0SxWSB2GiW/7KJwmGXb7OBwOKynvhOmCm8UKRytrRDcOqCSv6DVbIAhIinzjYxtXEoDpn1tUZJaefMrSk8949MnHSC4FYzZjpuvMwT13wlIPj/sDitE0sa1j0scR8pE4k8HI1sFlqYdlj5vPv3iKU3SiTyaUYxnG/QECD2ho6ZMpWrlKLhgluRckuR+ilv0DfTJF9rgeYPBI5lj/5jmh1XXaagNJkXEtenCK9g8ssNDDtVyJjC/C+bsDsoEzOmoTBGx9OMCcgkev0SL46h3eZyu0q3Ucon1tbZng6XhCKZoiuR/iwntENXVFX+vYvppMH1q1XJHt5Rec/LpDI19Gn04RFRlRlnE47U1ZYIHghaXHPP3qSyRFJuM/oxRN0W1oGDMD2eN6+B6u5Yp/5emo94jJYIhgY562nNn90SM8jxeRF9y272CwoKVHvQHF8ySpwwipowiFSAztWkVAQPa4ba0uWCC4XalxtLLGyW+7aGUVjBvvirJk++MfLPTwsN0jfxInvuMjvu2nni8x7g+toPogzCV4DFodAj+9Zf3b53TU5sMMHh21QTZwzoX3kMv992hllZmuW0H1QTDdw5XUFd5nK7x/7UUrV3FKIsqCB6ck2r6DwYIKT4YjqukCGd8pl/sh0scRmqUqxsxA8bhsn9KWe3jY6ZEPxzh7+zvB1XX6WsfWiGkp80zX0coq5USW+tXtXclKxrthuod7zRapgzAXm8fkgmdUMwUGrS5OUURyK7a3tOmCh+0ead8JqcMwarbAuDfAIYo3wcPu8mKxhyvJHLEdP8ndAKVYmlalDjMDbNQ9l+DRqTbwv3zD5nc/0tPsPbVYInim66jpAvHdAIldPxnfKf1mG8c92MWme/j2XHqytkNLrSErrptzqSyZTfWfYHqFZ7pOu9qgeH5JfNtHfMdPNVNgMhgh34MpPRcPV5I5Qq+97P3wikGra2vwsPTU0mu0KJwmSOwFudwPMR2NbX8Tmyb49relbk3jcj/IxZaPXDBKq6Iym+g4pfuxi/8E0AttdFjsdz0AAAAASUVORK5CYII="
+            x="56.00" y="0"
+            width="30.00" height="20.00"
+        />
+        <rect width="56.00" height="20.00" fill="#555" />
+        <rect width="86.00" height="20.00" fill="url(#s)" />
+    </g>
+    <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
+        <text aria-hidden="true" x="285" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="450">made in</text>
+        <text x="285" y="140" transform="scale(.1)" fill="#fff" textLength="450">made in</text>
+    </g>
+</svg>

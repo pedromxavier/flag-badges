@@ -1,0 +1,24 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="86.00" height="20.00" role="img" aria-label="made in BR">
+    <title>made in CV</title>
+    <linearGradient id="s" x2="0" y2="100%">
+        <stop offset="0" stop-color="#bbb" stop-opacity=".1" />
+        <stop offset="1" stop-opacity=".1" />
+    </linearGradient>
+    <clipPath id="r">
+        <rect width="86.00" height="20.00" rx="3" fill="#fff" />
+    </clipPath>
+    <g clip-path="url(#r)">
+        <image
+            href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAAoCAYAAACiu5n/AAABYklEQVR4nO2YsUoDQRRF7wSjBGMRgxBSBGxs1u39AK38E8E+YEqtUuZbtgr+go3ZtIEIIY2IEFk0mLXYxEYnzM68GdfZd5qd4vHeXi4zw1yBs0GKElH56x9wDQv2HRbsOyzYd1iw77Bg32HBFITtGcL2zEZrY3aoG16exuheDPG5EujfnyMaBdQjjDBy+Dcno1GAw/03HB0sfogtgvNC9z0sc7JWXeK4+QwAmL40sHjf21rvGm2HZU4myyrG8xbG89a32G31rtF2WOYkVb0ttAX/V0SapuqCk8fsWwtpplP3U0B9D79GwPQKeLrO1qZQ91Mkn8Px+rAJYprp1P0UUBe8SoCPSbbe7QCVutlk6n6KiIfGSakOLX48+E7pBPM9LIXvYQL4HrZP6R4P5IkHZb0NtDOtvAmGt4kHkD/rcgl54pE363KNlUMr7t0BAILbG+rWxpALLoqTMsiD+E1qWVS+AEiP7HTxymWrAAAAAElFTkSuQmCC"
+            x="56.00" y="0"
+            width="30.00" height="20.00"
+        />
+        <rect width="56.00" height="20.00" fill="#555" />
+        <rect width="86.00" height="20.00" fill="url(#s)" />
+    </g>
+    <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
+        <text aria-hidden="true" x="285" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="450">made in</text>
+        <text x="285" y="140" transform="scale(.1)" fill="#fff" textLength="450">made in</text>
+    </g>
+</svg>

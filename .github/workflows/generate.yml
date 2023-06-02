@@ -1,0 +1,36 @@
+name: generate
+
+on:
+  workflow_dispatch:
+
+jobs:
+  generate:
+    name: Python ${{ matrix.python-version }} @ ${{ matrix.os }}/${{ matrix.arch }}/${{ github.event_name }}
+    runs-on: ${{ matrix.os }}
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - python-version: '3.11'
+            os: ubuntu-latest
+            arch: x64
+    steps:
+    - uses: actions/checkout@v3
+    - uses: actions/setup-python@v4
+      with:
+        python-version: ${{ matrix.python-version }}
+    - name: Install Package
+      run: |
+        pip install .
+    - name: Generate Badges
+      run: |
+        flag-badges generate .
+    - name: Save Badges
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # For authentication with GitHub Actions token
+      run: |
+        git config --global user.name  "github-actions[bot]"
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git add ./badges/*
+        git commit -m "Generate Badges [actions]"
+        git push

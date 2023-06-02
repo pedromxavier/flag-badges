@@ -1,0 +1,24 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="86.00" height="20.00" role="img" aria-label="made in BR">
+    <title>made in IQ</title>
+    <linearGradient id="s" x2="0" y2="100%">
+        <stop offset="0" stop-color="#bbb" stop-opacity=".1" />
+        <stop offset="1" stop-opacity=".1" />
+    </linearGradient>
+    <clipPath id="r">
+        <rect width="86.00" height="20.00" rx="3" fill="#fff" />
+    </clipPath>
+    <g clip-path="url(#r)">
+        <image
+            href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAAoCAYAAACiu5n/AAAC/klEQVR4nO2XT2gTWRzHP28SU40pGlurtbhYq+ISXRVW8O9BQTxI2UVQPIj/0IPgwl4UQXFZ9igeBBEp7CoePNSD+AdErKitoq5V1FqtTa2G2iZx03Y6TaadSSbPg/9Qq7jNRGEyn+Nv3u/N98N78+eJu8EZkgJC+d4BvjWusNNxhZ2OK+x0XGGn4wo7nYITFlJK9/BgF3rGJKqrXz1eIglr8fwFIs/Cuxpr+Sfc8NXjBYJkepCwFkc1dY60XKbHSNmaKW/CdV2PuPXfUzZNX/KuZliZL/YkMwYJI0lzbydRXWX/w/Oopm5rrrwI95kD7L5zksMLN1DhD76vp3V23q7Fktkh+wLeIlZMClEXbcbvLaKquIyRHi9/3T9jW7a8CP9+6wTVk+cwv7SSZNrgtxvHqX32LwB1Xc2f7YsPaESS3dxJRLBkFkUIYgMadxMR27LZLny24x69ps4fc38F4NDjSzT1dHDw0UW6B1NUFpfiEUPf9s97p1FNnSmBkg/q5f6xtuWzTbgj1UOz2smWhr+pDJRyrO0aR8MNnIk0UrN0K1OLy0jLzz/DbVqcDi2GEIKPN7zEvi+nN5fm/vQgjYnnhIKT2Hb9KBumLWZVxSwSRj/nXzQBUBUooaQoQCZrATBC8XwyTyTZzborR8iaOj7hwat48AgFRQhA4lNex8xK+aY2fHISbumLsubyIRaXTePCiyb2zf2FHaGVb66+XRVBmxajPt7KXlFNfayVjfU17Jq9ilCwAoCwFqNdi1E+ehzVlw7SZ+q09HbSnzFQUDjVfpNuI8n+n9fmvL1z+tNKZy1Cp/aw+od5TPAHUc0UQ88mCRYF2Dx9CTVPrpKRFttnLiPoGw1AVFd5rHYhkUgEihBY0qLYO4qfxk3m5stWRnh8LBhfNeQO+T8MW7i1L8aBB+cY5fOzvmoRtxPtbJ+5PKcw34JhC2eyFmEtzowxE2lMPCeVMVhe/qPd+Wyn4A4Pr1+DBUTBnYddYafjCjsdV9jpuMJOxxV2OgUn/AoLtSytuYC4KAAAAABJRU5ErkJggg=="
+            x="56.00" y="0"
+            width="30.00" height="20.00"
+        />
+        <rect width="56.00" height="20.00" fill="#555" />
+        <rect width="86.00" height="20.00" fill="url(#s)" />
+    </g>
+    <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
+        <text aria-hidden="true" x="285" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="450">made in</text>
+        <text x="285" y="140" transform="scale(.1)" fill="#fff" textLength="450">made in</text>
+    </g>
+</svg>

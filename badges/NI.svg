@@ -1,0 +1,24 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="86.00" height="20.00" role="img" aria-label="made in BR">
+    <title>made in NI</title>
+    <linearGradient id="s" x2="0" y2="100%">
+        <stop offset="0" stop-color="#bbb" stop-opacity=".1" />
+        <stop offset="1" stop-opacity=".1" />
+    </linearGradient>
+    <clipPath id="r">
+        <rect width="86.00" height="20.00" rx="3" fill="#fff" />
+    </clipPath>
+    <g clip-path="url(#r)">
+        <image
+            href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAAoCAYAAACiu5n/AAACgklEQVR4nO2Zy04TUQBAzzw6j7YMhULTEqrECMadAokaxUTXGuPKpe5MWPkd/okrEjby8LEwugAhJhoXpIBSAoU20NbO9DUPF7jR/R2TYc5mkpnFPSeTO/fejMTzTwHnCPl/C4RNHBx14uCoEwdHnTg46sTBUefcBUtBEIR6ePC9Hj27TICKlswhqyZSiOOHFtxt17BPt9A0nV5rG9QRkDX6zg8yhfvoqbEwNFDDGKTrVGgeLqNnbmBYFzHTKSQ8AnWS9olCvfqNAa9D0rok3EV4sNPYpnm4Sqb4CCNVALq8Xl/C81wezE2Qzt1CaVVo7i+gKg/RUuNCfYR+tILAw27sYA7P/omF9u4K9noTZ6ONU1oBwEznMUfuYDd2AbEzTGhwv32M5J0yMHL97IZf4517gfLVFxxcmeeNNw7uIQCpzBRe54B+95dIJbHBrtvFJ4ksnw1TPlpjs17BM/bwB9t8l69RrpeAAEXRkFSLfqcmUknsHJbxkfxTQMJrl3i1/JKWtkPDszipZkkYeRYmp5m/W0TVJ+j7OqZsiFQSG6xoGfT0ZcBl5fMim617FPJPmMwqKMMBX1s6H/eTFNdWeTz3lHR6CN1Ii1QSvw5X995j6BJ1r4ev5zATMkMJkGU47gT0XRfaFXKpUXp9GSs3K1JH/LJkWuPU9xYZm3qGYmT/elbQz65+p8rRzyUGRmdE64Sz02rVvlCvfMAanSaVnUFRDYIAfNfBbpTonGygW1MM5m+LVglva+nUt2gdvcVPFDGTAwQBOM0DErpFJn+TxD9vXxShHh4CoGtXwbeRZAUkHc3MIYV4epDiXy0RJw6OOnFw1ImDo04cHHXi4Khz7oJ/Axox7LOx0x6yAAAAAElFTkSuQmCC"
+            x="56.00" y="0"
+            width="30.00" height="20.00"
+        />
+        <rect width="56.00" height="20.00" fill="#555" />
+        <rect width="86.00" height="20.00" fill="url(#s)" />
+    </g>
+    <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
+        <text aria-hidden="true" x="285" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="450">made in</text>
+        <text x="285" y="140" transform="scale(.1)" fill="#fff" textLength="450">made in</text>
+    </g>
+</svg>

@@ -1,0 +1,24 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="86.00" height="20.00" role="img" aria-label="made in BR">
+    <title>made in TJ</title>
+    <linearGradient id="s" x2="0" y2="100%">
+        <stop offset="0" stop-color="#bbb" stop-opacity=".1" />
+        <stop offset="1" stop-opacity=".1" />
+    </linearGradient>
+    <clipPath id="r">
+        <rect width="86.00" height="20.00" rx="3" fill="#fff" />
+    </clipPath>
+    <g clip-path="url(#r)">
+        <image
+            href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAAoCAYAAACiu5n/AAACkElEQVR4nO2ZvWsUQRiHn3d29y6edyZ+EYtAsFDQJpWIpR8gSBoRgq2NjYpg7T9gAhZBrBTSWVlYiWIvxFiGIFGJqPnixMTLJXe3u/NabD7uSNLtnLDu0+zu7M7O7zfzzruzuzIFyn+E+dcCuk1uOOvkhrNObjjr5IazTm4464iqdn8tbTeSrTnQ9aa7M8Jq2/ZDmH8I3x+ANrcKwTb3rJo27g3HNZi7BctPAQXxoXwRKpdBCsk1v17AlxGIqs7l+M5bMCXoOQ2FQUAA0L5h2D4CiiehNASm7FxOF+aw0mYN3ZhBFx+jtonpv4OUz+97rQvchLStw8IY1CdpN2Abn2D2KnLwHKZvGL6OEK1Ntn2BEGjMwMIoxKtOpLkxrDHU3kFzbrvIAi3/GHHlCmgdtEFcuURcGOis2/oJf96CRk6kOQppm5hGdxITEAGhxhQ+X0Na84RnPhCYns5e19amsgAX4e0oaRmQ3cHjA4gHx++h6x93m4WODnKkLGVsA6oTsPZ+z9M+4InBk2D/xutTsDSe5IKUcTOHV14lyWcfVIqoBDvHQEvbPp+2fsDq684FS0o4mMOW2DYBg2eK26UKRNEKKgazOIo0ZogHnyGA7x9Gaet9DZOkJYVkCqRIqoYViDYfpZ6CEYvFYAFv4REsjaMSIRqRBLcFAjh6Ex0YIxYvyXPibkWU+ghbtkYquW24Pg2LT/Cjb2hxCJEmcVhDNEKCQxCHGK0SawHbfxdTuQBAuuO6g/OVlto6RL8hrKKz19HSWYzfC1iIarA+DadeQnAC8crg9bqU053XwxCQ5eeoKaFHbhCYQvKE1Zho5Q1eaxbpv+9aBgDC7fzfUqbJDWed3HDWyQ1nndxw1skNZ52/2nb2mUQXqh4AAAAASUVORK5CYII="
+            x="56.00" y="0"
+            width="30.00" height="20.00"
+        />
+        <rect width="56.00" height="20.00" fill="#555" />
+        <rect width="86.00" height="20.00" fill="url(#s)" />
+    </g>
+    <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
+        <text aria-hidden="true" x="285" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="450">made in</text>
+        <text x="285" y="140" transform="scale(.1)" fill="#fff" textLength="450">made in</text>
+    </g>
+</svg>

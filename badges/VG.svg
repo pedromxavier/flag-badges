@@ -1,0 +1,24 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="86.00" height="20.00" role="img" aria-label="made in BR">
+    <title>made in VG</title>
+    <linearGradient id="s" x2="0" y2="100%">
+        <stop offset="0" stop-color="#bbb" stop-opacity=".1" />
+        <stop offset="1" stop-opacity=".1" />
+    </linearGradient>
+    <clipPath id="r">
+        <rect width="86.00" height="20.00" rx="3" fill="#fff" />
+    </clipPath>
+    <g clip-path="url(#r)">
+        <image
+            href="data:image/png;base64,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"
+            x="56.00" y="0"
+            width="30.00" height="20.00"
+        />
+        <rect width="56.00" height="20.00" fill="#555" />
+        <rect width="86.00" height="20.00" fill="url(#s)" />
+    </g>
+    <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
+        <text aria-hidden="true" x="285" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="450">made in</text>
+        <text x="285" y="140" transform="scale(.1)" fill="#fff" textLength="450">made in</text>
+    </g>
+</svg>

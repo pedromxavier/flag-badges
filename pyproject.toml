@@ -1,0 +1,41 @@
+[build-system]
+requires      = ["setuptools>=61.0.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name            = "flag_badges"
+description     = "made in <flag> badges for your projects"
+readme          = "README.md"
+requires-python = ">=3.7, <4"
+classifiers = [
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Operating System :: Microsoft :: Windows",
+    "Operating System :: POSIX :: Linux",
+]
+dependencies = [
+    "numpy>=1.21.2",
+    "Pillow>=8.3.1",
+]
+dynamic  = ["version"]
+keywords = ["badges", "flags"]
+license  = {text = "MIT License"}
+
+
+# [project.optional-dependencies]
+# test = ["pytest>=7.2", "pytest-cov", "pytest-mock>=3.10"]
+
+[project.scripts]
+flag-badges = "flag_badges:main"
+
+[tool.setuptools.dynamic]
+version = {attr = "flag_badges.version.__version__"}
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+# ... other project metadata fields as specified in:
+#     https://packaging.python.org/en/latest/specifications/declaring-project-metadata/

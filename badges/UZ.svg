@@ -1,0 +1,24 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="86.00" height="20.00" role="img" aria-label="made in BR">
+    <title>made in UZ</title>
+    <linearGradient id="s" x2="0" y2="100%">
+        <stop offset="0" stop-color="#bbb" stop-opacity=".1" />
+        <stop offset="1" stop-opacity=".1" />
+    </linearGradient>
+    <clipPath id="r">
+        <rect width="86.00" height="20.00" rx="3" fill="#fff" />
+    </clipPath>
+    <g clip-path="url(#r)">
+        <image
+            href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAAoCAYAAACiu5n/AAADP0lEQVR4nO2XS28bVRiGn3Pm4uvYmVg0bUPcRL0gUZO0hUVLaVMCVekKgbpG/RvdoS74BUhc1IKAIFF1B+oGKQskJLppxAKJiJSqJRWIS1NZtuvLnJnDYuwoRI6dRZhUk3lWfj3H9rzf+d4znwUf3dIMQ2vwg/C1aQxdvvYZIbauI0IOXaF8AObKe3hjai9FywxvdgiZDYVJr9Nig46SwYaVz9FSgdtvnebyc8/yW7VB3VODdyYImMiluXn+BAecDHg+06MON14/zqhtgac4u2+Uz1+dISsFDK/dtmJuesUPKBdzfPfmKRZ+f8Q73y6CFGAMaQoheNT2+PjnFVZbHhiCh40215ZWqCkfDINfqg0+WXpIM9DhdkeI2DTDnuKLCy/y9uRe9s8vUG12BpvdmMmOAssMDWkNng92t76BBt8Pr0dMfweBppBLc2lqH988+ItqvTnQrADctI0U67STWfMvpQx1d71pStx8JurNDe+l77taU0rZpA3Jg3pz8DdoTcE2mZ+boeI64PmM59J89dpxyvkMeIqKm+fLuWOM2CZ4itNjLtfPvkBKRJ/h/oaFYLXt0fbDA2gwgobyuXrnLvdrYSf80+rw7p1l/m51wDC4X2tydXF5LcM/Pa7z3o+/0tZPVYZ9blx8iYsTzzA+v0Ct5f23rXsHTq9vOwosI9S9zG7UT22GAaTgyu0ltIb3X6mEg0d3+JDAgUKWnGWCBkPAVMkh1X22mlIyVXIwuwVKmQaTJQdDABpytsmk62xhCNh+Nv9NQ3LvcZ1zX//AtOtw7fwJDhezSK1JScGHZyrM7h8FpShYFtdnpznqOuApxnNpPjs3E8bBUzzv5vl0doaibYFSnBwb4YMzFVJSbGmI2U42b+keyse0DC5M7AHg+z9WqXY8jozk+bPZptr2MKTkUDHLSr3FE09hGwYHC1nu1Z7QVj5Zy6Scz7BcbeAHAQXbYiyb4m61EfWZtQXD0H+W9oNwEOlluJ/uZV4DwXqtwxwPG2L+B8SieyTqIu8oQuuIQ7TD7MRBuaMkhuNOYjjuJIbjTmI47iSG486uM7z7/i2Vb728qwzvupZODMedxHDcSQzHncRw3EkMx51/AYxXI6iblxWEAAAAAElFTkSuQmCC"
+            x="56.00" y="0"
+            width="30.00" height="20.00"
+        />
+        <rect width="56.00" height="20.00" fill="#555" />
+        <rect width="86.00" height="20.00" fill="url(#s)" />
+    </g>
+    <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
+        <text aria-hidden="true" x="285" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="450">made in</text>
+        <text x="285" y="140" transform="scale(.1)" fill="#fff" textLength="450">made in</text>
+    </g>
+</svg>

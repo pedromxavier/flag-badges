@@ -1,0 +1,24 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="86.00" height="20.00" role="img" aria-label="made in BR">
+    <title>made in FM</title>
+    <linearGradient id="s" x2="0" y2="100%">
+        <stop offset="0" stop-color="#bbb" stop-opacity=".1" />
+        <stop offset="1" stop-opacity=".1" />
+    </linearGradient>
+    <clipPath id="r">
+        <rect width="86.00" height="20.00" rx="3" fill="#fff" />
+    </clipPath>
+    <g clip-path="url(#r)">
+        <image
+            href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAAoCAYAAACiu5n/AAAC6klEQVR4nO2ZO0/bUBTH/35GQBzCOyQmLDAUASkRzYYUKSMLSyvG9hMgRerXQOITtGNFl6hjpUpUbBRBA1mqwtCSkKgBkRJbKX6lQ7B5LLTO9bUU8ptiKzrn/H2uzz3nmnn94biJRwTrdwC06QrudHwRHAmJiIREP1yD98Pp/HgfAKByqVH37UuG58b7MHctmjZUMjw13INEtCVQ4FiMSa3lvLowCt20AAD5UxVHZw3PY6Ei+OisgXAPj5XZIYj8zaJKykFohoVc4ZyKWIDikt49qWNjuwTdvOlzNMPCxnYJuyd1WmHQfYd1swmBY5xrkWfvPAAaUBWciAahaibefqngzU4FqmYiEQ3SDIHutsSzwPpWEfUrE0Drdyou0QwBTHd46HCICJ4a7iFhhooPIoIT0T4sTnj3Li5OSE7j0i7EitbK7BB+XPyBbjaRiAbBs8Cn7zVXtjLTYRgWkD9VIHAMVmaHsF9SiMRJRLDAsRB5FmtLMYg8C1Uzsb5VdG1v52cd2bSM5ZlBZ+8WODLlxrXgSEjE/PUQYPfGdtu4+bXqbD1uqF+ZeJ+v4uWziNOoJOUgYv0iDssqDsqq60nLkyrNMA//5yGaHm2WrjNcudRQudTw8dsFVhdGkZSDzvJ7nhjB+kXRdZalAIcXT0cAtPptkWexV1Twbv+X23AdiLzDumk5g4BdtFJxyXXRSsUlbB39dorW2lLMGSPbhViVzhXOUVV0AMDn41pbtu4/qFzhHJMDgbZs2hAR7PXwvntSR61hELFFpGjRGN5J+ej20l6SmQ5DCnDOtRTgkJkO0wyBrmDDArJpGU/GejET6UU2LcMgU3z/GaoHAPlTBcszg3iVity5RxOqGRY4BtqtlN4/46IBNcGLE5IzXNjYTYWXo+V9qB3ETw4EsF9SIHAsknLr4G6vqEA3LUwOBFBrGJ11EH9bTKy/NV2R6I3/F18+ph2WVT/cAvBJ8MFjE+zHZ1KbbmvZ6Tw6wX8BbkEFwe3KZY8AAAAASUVORK5CYII="
+            x="56.00" y="0"
+            width="30.00" height="20.00"
+        />
+        <rect width="56.00" height="20.00" fill="#555" />
+        <rect width="86.00" height="20.00" fill="url(#s)" />
+    </g>
+    <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
+        <text aria-hidden="true" x="285" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="450">made in</text>
+        <text x="285" y="140" transform="scale(.1)" fill="#fff" textLength="450">made in</text>
+    </g>
+</svg>

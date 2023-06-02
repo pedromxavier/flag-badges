@@ -1,0 +1,24 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="86.00" height="20.00" role="img" aria-label="made in BR">
+    <title>made in ZA</title>
+    <linearGradient id="s" x2="0" y2="100%">
+        <stop offset="0" stop-color="#bbb" stop-opacity=".1" />
+        <stop offset="1" stop-opacity=".1" />
+    </linearGradient>
+    <clipPath id="r">
+        <rect width="86.00" height="20.00" rx="3" fill="#fff" />
+    </clipPath>
+    <g clip-path="url(#r)">
+        <image
+            href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAAoCAYAAACiu5n/AAACHElEQVR4nOWYvWsUQRxA39xtdo1ZPEJOUCKIXBGCCBaSVJpDELSIH1gt2CkWd2kFRUHEQhCDIGdhJQjBP0DTSAoN+A9YWUhEg9jIJZF8EL3cWu06y5HLzpy7OuMr55jh9/YNu3CCW0FIF05VjvDk3BUODe6N19rLTZYe3WN97mW3rf8kYidhAN/dxfSZS1w9djKxvjE/R/PBbdrLzcwG/NOkEo6wobaSMJhfW1k4wtTa4sT90+H890GtzSbWFq3Zcvjw60HuLFZY3SpqHWJSbdGaLYcAHzf7ufzhMLbXjoUjbK8tgqoXNmo+pQERL9pcWwDh8FCBRt1nctxN/GhjbQHEVzqoetheOyEMYHvtDuGIPGvnybbCkG/tvOgqHJFF7b9FKmHIrnbepBaOML22sjCYXVtLOCKoejyu++zZbU7tQi+bVzdC1jeTz8sVbUrFVk9DZYmjs6k0IGjUfIKql1h//m0fUwujrGxpHZsLypNNjrs06j7DQ78vx5cfHlMLo7xYyv+7qkpqYZOryqSaMouq/X0uNyfOc/34WYqFnl4lSnQVzqrq2IEKzy7WGCnv19rfC9tOnGfVN28/U7/2ik+LK1rnqtAhnGfVtbWf3Lj7mqcz77TO1CExva1VZRywv6qM8z9Ulen4m9bGqjKxlc1VZRywv6qMc+H9Ueuryji6siZVlVG+wyZWlVESNrWqTCph06vK7ChsQ1WZX9NB3ZP2I6NTAAAAAElFTkSuQmCC"
+            x="56.00" y="0"
+            width="30.00" height="20.00"
+        />
+        <rect width="56.00" height="20.00" fill="#555" />
+        <rect width="86.00" height="20.00" fill="url(#s)" />
+    </g>
+    <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
+        <text aria-hidden="true" x="285" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="450">made in</text>
+        <text x="285" y="140" transform="scale(.1)" fill="#fff" textLength="450">made in</text>
+    </g>
+</svg>

@@ -90,7 +90,7 @@ BADGE_TEMPLATE = """
 </svg>
 """
 
-def make_badge(code: str, path: str = None, *, text_width = 56, total_height = 20):
+def create_badge(code: str, path: str = None, *, text_width = 56, total_height = 20):
     img = crop_img(get_flag_img(code))
     b64 = to_base64(img)
 
@@ -115,7 +115,9 @@ def make_badge(code: str, path: str = None, *, text_width = 56, total_height = 2
     )
 
     if path is None:
-        path = f"{code}.svg"
+        path = Path(f"{code}.svg")
+    else:
+        path = Path(path)
 
     with open(path, "w") as fp:
         fp.write(svg)
