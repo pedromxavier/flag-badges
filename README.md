@@ -1,7 +1,21 @@
-
 # flag-badges
+<a href="https://github.com/pedromxavier/flag-badges">
+    <img src="https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/BR.svg" alt="made in BR">
+</a>
 
 made in `<flag>` badges for your projects
+
+## Usage
+
+Just include the following snippet in your project's README file:
+
+```html
+<a href="https://github.com/pedromxavier/flag-badges">
+    <img src="https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/<country code>.svg" alt="made in <country code>">
+</a>
+```
+
+exchanging `<country code>` for the [alpha-2 code](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) of your country.
 
 ## Flags
 [![Andorra](badges/AD.svg)](badges/AD.svg)
@@ -245,4 +259,6 @@ made in `<flag>` badges for your projects
 
 ---
 
-Powered by [flagsapi](https://flagsapi.com/)
+<div align="center">
+    Powered by <a href="https://flagsapi.com">flagsapi</a>
+</div>
